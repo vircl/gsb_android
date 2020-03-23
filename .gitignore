@@ -1,0 +1,20 @@
+*.iml
+.gradle
+.idea
+gradle
+/build.gradle
+/local.properties
+/gradle.properties
+/gradlew
+/gradlew.bat
+/settings.gradle
+Suivi de vos frais.iml
+/app/build
+/app/libs
+/app/debug
+/app/release
+/app/.gitignore
+/app/app.iml
+/app/build.gradle
+/app/proguard-rules.pro
+

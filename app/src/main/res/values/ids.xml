@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="cmdKm" type="id" />
+    <item name="cmdRepas" type="id" />
+    <item name="cmdEtape" type="id" />
+    <item name="cmdNuitee" type="id" />
+    <item name="cmdHf" type="id" />
+    <item name="cmdHfRecap" type="id" />
+    <item name="txtRepas" type="id" />
+    <item name="datRepas" type="id" />
+    <item name="imgRepasReturn" type="id" />
+    <item name="cmdRepasPlus" type="id" />
+    <item name="cmdRepasMoins" type="id" />
+    <item name="cmdRepasValider" type="id" />
+    <item name="cmdTransfert" type="id" />
+</resources>
