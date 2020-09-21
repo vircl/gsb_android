@@ -10,6 +10,8 @@ import android.content.Context;
 import android.util.Log;
 import org.json.JSONException;
 import org.json.JSONObject;
+
+import java.io.Console;
 import java.util.concurrent.ExecutionException;
 
 
@@ -20,7 +22,8 @@ import java.util.concurrent.ExecutionException;
 public class API {
 
     private AccesLocal accesLocal;
-    private String adresseAPI = "https://gsb.virginieclaude.fr/api/";
+    //private String adresseAPI = "https://gsb.virginieclaude.fr/api/";
+    private String adresseAPI = "http://192.168.1.51/projets/PPE/GSB/DEV/AppliWeb/api/";
 
     /**
      * Constructeur
